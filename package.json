@@ -4,6 +4,7 @@
   "description": "Just an sample node micro api in koa",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/lifecompilers/koa-micro-api/issues"
   },
-  "homepage": "https://github.com/lifecompilers/koa-micro-api#readme"
+  "homepage": "https://github.com/lifecompilers/koa-micro-api#readme",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
 }
