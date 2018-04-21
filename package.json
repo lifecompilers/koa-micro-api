@@ -1,0 +1,24 @@
+{
+  "name": "koa-micro-api",
+  "version": "1.0.0",
+  "description": "Just an sample node micro api in koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifecompilers/koa-micro-api.git"
+  },
+  "keywords": [
+    "node",
+    "koa",
+    "micro"
+  ],
+  "author": "LifeCOMPILERS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lifecompilers/koa-micro-api/issues"
+  },
+  "homepage": "https://github.com/lifecompilers/koa-micro-api#readme"
+}
